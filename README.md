@@ -4,7 +4,7 @@ Feel free to update these lists in a pull request.
 
 ## Meetups
 
-* 2018-09-30 [Free Code Camp OKC](https://www.meetup.com/FreeCodeCampOKC/events/254535529/)
+* 2018-10-01 [OKC#](https://www.meetup.com/OKC-Sharp/events/251265302/)
 * 2018-10-02 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxnbdb/)
 * 2018-10-02 [Free Code Camp Norman](https://www.meetup.com/FreeCodeCamp-Norman/)
 * 2018-10-07 [Free Code Camp OKC](https://www.meetup.com/FreeCodeCampOKC/)
@@ -26,6 +26,7 @@ Feel free to update these lists in a pull request.
 * [Free Code Camp OKC: Chris Tse - How I got into Web Dev as a Computer Science Major](https://www.youtube.com/watch?v=2wdUNCObvfE)
 * [Free Code Camp OKC: Dale Spoonemore - Getting Started on a Project](https://www.youtube.com/watch?v=6XenFgLagTs)
 * [Free Code Camp OKC: Jeff Maxwell - Intro to Web Development](https://www.youtube.com/watch?v=7l13fxjESAE)
+* [Free Code Camp OKC: Jennifer Droke - Intro to Git and GitHub](https://www.twitch.tv/videos/316858556)
 * [Free Code Camp OKC: John Mosesman - How to Become a Developer](https://www.youtube.com/watch?v=vYct8lrMkuM)
 * [Free Code Camp OKC: Kristin Ferrier - Building Relationships in the IT Community](https://www.youtube.com/watch?v=bLsKi5YySNY)
 * [Free Code Camp OKC: Ryan LaBouve - The Fearless Interview](https://www.youtube.com/watch?v=vI3qsCbMcKI)
