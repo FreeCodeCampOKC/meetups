@@ -4,11 +4,7 @@ Feel free to update these lists in a pull request.
 
 ## Meetups
 
-* 2018-10-01 [OKC#](https://www.meetup.com/OKC-Sharp/events/251265302/)
-* 2018-10-02 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxnbdb/)
-* 2018-10-02 [Free Code Camp Norman](https://www.meetup.com/FreeCodeCamp-Norman/)
-* 2018-10-07 [Free Code Camp OKC](https://www.meetup.com/FreeCodeCampOKC/)
-* 2018-10-09 [Free Code Camp Norman](https://www.meetup.com/FreeCodeCamp-Norman/)
+* 2018-10-13 [Hacktoberfest](https://www.meetup.com/okccoffeeandcode/events/255430019/)
 * 2018-10-14 [Free Code Camp OKC](https://www.meetup.com/FreeCodeCampOKC/)
 * 2018-10-16 [OKC.js](https://www.meetup.com/OKC-js)
 * 2018-10-17 [Free Code Camp Norman](https://www.meetup.com/FreeCodeCamp-Norman/)
@@ -17,6 +13,8 @@ Feel free to update these lists in a pull request.
 * 2018-10-28 [She Codes OKC (women only)](https://www.meetup.com/SheCodesOKC/)
 * 2018-10-29 [Free Code Camp OKC](https://www.meetup.com/FreeCodeCampOKC/events/254966670/)
 * 2018-10-30 [Free Code Camp Norman](https://www.meetup.com/FreeCodeCamp-Norman/)
+* 2018-11-06 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxpbjb/)
+* 2018-11-07 [OKC#](https://www.meetup.com/OKC-Sharp/events/254941518/)
 
 ## Videos
 
