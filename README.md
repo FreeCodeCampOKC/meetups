@@ -4,7 +4,6 @@ Feel free to update these lists in a pull request.
 
 ## Meetups
 
-* 2018-10-21 [Train your Brain to Code: Easy as Uno, Dos, Tres with Hannah May Nicholas](https://www.meetup.com/FreeCodeCampOKC/events/255099420/)
 * 2018-10-23 [Free Code Camp Norman - Quincy Larson: Live @ The iHub](https://www.meetup.com/FreeCodeCamp-Norman/events/255216397/)
 * 2018-10-28 [She Codes OKC (women only) - Hacktoberfest Hackternoon](https://www.meetup.com/SheCodesOKC/events/255251280/)
 * 2018-10-29 [Free Code Camp OKC - Community Meet and Greet](https://www.meetup.com/FreeCodeCampOKC/events/254966670/)
