@@ -35,3 +35,4 @@ Feel free to update these lists in a pull request.
 * [She Codes OKC: Cassie Koelsch - Learning Pull Requests in GitHub](https://www.youtube.com/watch?v=7kUe46mBD18)
 * [She Codes OKC: Hannah May Nicholas - Python for Absolute Beginners](https://www.youtube.com/watch?v=hU7CWQhD4Ek)
 * [Techlahoma: Maegan's Journey](https://youtu.be/PZj53WT4wcg)
+* [Free Code Camp OKC: Christine Phung - Getting Your First Developer Job](https://www.youtube.com/watch?v=_2RmjYX3gsE)
