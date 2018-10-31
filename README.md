@@ -4,10 +4,6 @@ Feel free to update these lists in a pull request.
 
 ## Meetups
 
-* 2018-10-23 [Free Code Camp Norman - Quincy Larson: Live @ The iHub](https://www.meetup.com/FreeCodeCamp-Norman/events/255216397/)
-* 2018-10-28 [She Codes OKC (women only) - Hacktoberfest Hackternoon](https://www.meetup.com/SheCodesOKC/events/255251280/)
-* 2018-10-29 [Free Code Camp OKC - Community Meet and Greet](https://www.meetup.com/FreeCodeCampOKC/events/254966670/)
-* 2018-10-30 [Free Code Camp Norman - 2-Way Conversation in ReactJS](https://www.meetup.com/FreeCodeCamp-Norman/events/255895741/)
 * 2018-10-31 [OKC Design Tech - UX vs UI](https://www.meetup.com/OKC-Design-Tech/events/255262130/)
 * 2018-11-04 [Getting Started with Blogging on Medium with Cassie Koelsch](https://www.meetup.com/FreeCodeCampOKC/events/255581026/)
 * 2018-11-05 [Intro to Unity with Devon Toland](https://www.meetup.com/OKC-Sharp/events/254941518/)
@@ -15,7 +11,6 @@ Feel free to update these lists in a pull request.
 * 2018-11-10 [Open Source Keyboards with Logan Huskins](https://www.meetup.com/OKC-OSH/events/254715153/)
 * 2018-11-14 [OKC Python Users Group - TBD with Hannah May Nicholas](https://www.meetup.com/okcpython/)
 * 2018-12-03 [Microprograms - Digging for Gold in Legacy Architecture with Dodzidenu Dzakuma](https://www.meetup.com/OKC-Sharp/events/255477000/)
-* 2018-12-04 [OKC PHP](https://www.meetup.com/OKCPHP/events/249602209/)
 
 ## Videos
 
