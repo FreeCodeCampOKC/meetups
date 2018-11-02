@@ -12,6 +12,8 @@ These meetups and videos are ones we recommend for beginners. Feel free to updat
 
 ## Videos
 
+We'd love for you to write a post for [our blog](https://medium.com/freecodecamp-okc) to share what you learned from one of these talks!
+
 ### Getting Started
 * [Free Code Camp Norman: Quincy Larson - How to learn to code and get a developer job](https://www.youtube.com/watch?v=FiZzQugVSVo)
 * [Free Code Camp OKC: Aaron Krauss - Intro to Programming](https://www.youtube.com/watch?v=zOt2pZROEuM)
