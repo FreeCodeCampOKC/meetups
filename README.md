@@ -4,11 +4,11 @@ These meetups and videos are ones we recommend for beginners. Feel free to updat
 
 ## Upcoming Meetups
 
-* 2018-11-04 [Getting Started with Blogging on Medium with Cassie Koelsch](https://www.meetup.com/FreeCodeCampOKC/events/255581026/)
-* 2018-11-05 [Intro to Unity with Devon Toland](https://www.meetup.com/OKC-Sharp/events/254941518/)
-* 2018-11-06 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxpbjb/)
-* 2018-11-08 [A Programmer Has No Name](https://www.meetup.com/OKC-Ruby/events/255619218/)
-* 2018-11-14 [OKC Python Users Group - TBD with Hannah May Nicholas](https://www.meetup.com/okcpython/)
+* 2018-11-04 [Getting Started with Blogging on Medium with Cassie Koelsch](https://www.meetup.com/FreeCodeCampOKC/events/255581026/) - StarSpace46 and Twitch
+* 2018-11-05 [Intro to Unity with Devon Toland](https://www.meetup.com/OKC-Sharp/events/254941518/) - StarSpace46 and Twitch
+* 2018-11-06 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxpbjb/) - StarSpace46
+* 2018-11-08 [A Programmer Has No Name with Ryan LaBouve](https://www.meetup.com/OKC-Ruby/events/255619218/) - Clevyr
+* 2018-11-14 [OKC Python with Hannah May Nicholas](https://www.meetup.com/okcpython/events/vtdhfpyxpbsb/) - StarSpace46 and Twitch
 
 ## Videos
 
