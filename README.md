@@ -1,16 +1,14 @@
-# Check out these meetups and videos!
+# Talks for Beginners
 
-Feel free to update these lists in a pull request.
+These meetups and videos are ones we recommend for beginners. Feel free to update these lists in a pull request!
 
-## Meetups
+## Upcoming Meetups
 
-* 2018-10-31 [OKC Design Tech - UX vs UI](https://www.meetup.com/OKC-Design-Tech/events/255262130/)
 * 2018-11-04 [Getting Started with Blogging on Medium with Cassie Koelsch](https://www.meetup.com/FreeCodeCampOKC/events/255581026/)
 * 2018-11-05 [Intro to Unity with Devon Toland](https://www.meetup.com/OKC-Sharp/events/254941518/)
 * 2018-11-06 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxpbjb/)
-* 2018-11-10 [Open Source Keyboards with Logan Huskins](https://www.meetup.com/OKC-OSH/events/254715153/)
+* 2018-11-08 [A Programmer Has No Name](https://www.meetup.com/OKC-Ruby/events/255619218/)
 * 2018-11-14 [OKC Python Users Group - TBD with Hannah May Nicholas](https://www.meetup.com/okcpython/)
-* 2018-12-03 [Microprograms - Digging for Gold in Legacy Architecture with Dodzidenu Dzakuma](https://www.meetup.com/OKC-Sharp/events/255477000/)
 
 ## Videos
 
@@ -25,8 +23,8 @@ Feel free to update these lists in a pull request.
 * [Free Code Camp OKC: Austin Keeton - 7 Tips from One Self-Learner to Another](https://www.youtube.com/watch?v=kBx5XbHjPAY)
 * [Free Code Camp OKC: Chris Tse - How I got into Web Dev as a Computer Science Major](https://www.youtube.com/watch?v=2wdUNCObvfE)
 
-### Introduction to Github
-* [Free Code Camp OKC: Jennifer Droke - Intro to Git and GitHub](https://www.twitch.tv/videos/316858556)
+### Introduction to GitHub
+* [Free Code Camp OKC: Jennifer Droke - Intro to Git and GitHub](https://www.youtube.com/watch?v=vEtBdiQO2kM)
 * [She Codes OKC: Cassie Koelsch - Learning Pull Requests in GitHub](https://www.youtube.com/watch?v=7kUe46mBD18)
 
 ### Becoming a Developer
