@@ -4,8 +4,10 @@ These meetups and videos are ones we recommend for beginners. Feel free to updat
 
 ## Upcoming Meetups
 
-* 2018-11-06 [Techlahoma Hack Night](https://www.meetup.com/Techlahoma-Foundation/events/zpmmnpyxpbjb/) - StarSpace46 and 36 Degrees North
-* 2018-11-08 [A Programmer Has No Name with Ryan LaBouve](https://www.meetup.com/OKC-Ruby/events/255619218/) - Clevyr
+* 2018-11-08 [A Programmer Has No Name with Ryan LaBouve](https://www.meetup.com/OKC-Ruby/events/255619218/) - Clevyr at 11:30 am
+* 2018-11-11 [First Steps into Linux with Stephen Lains](https://www.meetup.com/FreeCodeCampOKC/events/256074364/) - StarSpace46 and Twitch at 2:00 pm
+* 2018-11-14 [OKC Python Lightning Talks](https://www.meetup.com/okcpython/events/vtdhfpyxpbsb/) - StarSpace46 and Twitch at 11:30 am
+* 2018-11-18 [Thanksgiving Pi with SheCodes OKC](https://www.meetup.com/SheCodesOKC/events/256131112/) - StarSpace46 at 2:30 pm
 
 ## Videos
 
