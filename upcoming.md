@@ -2,7 +2,7 @@
   * [#freecodecampokc](https://techlahoma.slack.com/messages/freecodecampokc/) at 2:00 pm
     * on [Twitch](https://twitch.tv/techlahoma)
     * [Intro to CSS - Autumn Cuellar](https://www.meetup.com/FreeCodeCampOKC/events/259440207/)
-  * [#okc-coffee-and-code]((https://techlahoma.slack.com/messages/okc-coffee-and-code/)) at 2:00 pm
+  * [#okc-coffee-and-code](https://techlahoma.slack.com/messages/okc-coffee-and-code/) at 2:00 pm
     * at [Full Circle Bookstore](https://fullcirclebooks.com/)
     * [Coffee and Code](https://www.meetup.com/okccoffeeandcode/events/259531651/)
 * 2019-03-18 Monday
@@ -18,7 +18,7 @@
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * [Secrets Management Simplified, Vault and Consul - Tyler Moody](https://www.meetup.com/DevopsOKC/events/mhnvrqyzfbtb/)
 * 2019-03-23 Saturday
-  * [#code-norman]((https://techlahoma.slack.com/messages/code-norman/)) at 2:00 pm
+  * [#code-norman](https://techlahoma.slack.com/messages/code-norman/) at 2:00 pm
     * at the [Norman Central Public Library](https://pioneerlibrarysystem.org/hometowns/norman-central)
     * [Deep Learning, Restful API & more](https://www.meetup.com/CODE-Norman/events/258457159/)
 * 2019-03-24 Sunday
