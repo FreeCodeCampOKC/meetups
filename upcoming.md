@@ -1,8 +1,3 @@
-* 2019-03-27 Wednesday
-  * 11:30 am - OKC Design Tech
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [The Case for User Interviews - Alec Danz](https://www.meetup.com/OKC-Design-Tech/events/258671600/)
-    * Slack: [#okc-design-tech](https://techlahoma.slack.com/messages/okc-design-tech/)
 * 2019-03-28 Thursday
   * 11:30 am - Free Code Camp Norman
     * at the [iHub](http://www.ou.edu/innovationhub)
@@ -41,9 +36,14 @@
     * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
 * 2019-04-04 Thursday
   * 11:30 am - Big Data and Data Science OKC
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * at StarSpace46
     * RSVP: [Big Data Tools: DataBricks](https://www.meetup.com/Big-Data-in-Oklahoma-City/events/258171327/)
   * 11:30 am
     * at the [iHub](http://www.ou.edu/innovationhub)
     * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzgbgb/)
     * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
+* 2019-04-10	Wednesday
+  * 11:30 am OKC Python
+    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * RSVP: [Flask Blueprints with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
+    * Slack: [#pythonista](https://techlahoma.slack.com/messages/pythonista/)
