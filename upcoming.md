@@ -1,24 +1,7 @@
 * 2019-03-28 Thursday
-  * 11:30 am - Free Code Camp Norman
-    * at the [iHub](http://www.ou.edu/innovationhub)
-    * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzfblc/)
-    * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
-    * Beginner friendly
   * Data + Creativity OKC at 6:00 pm
     * at Exaptive
     * RSVP: [An Algorithm to Improve Outcomes for Students and Universities](https://www.meetup.com/Data-Creativity-OKC/events/259146806/)
-* 2019-03-29 Friday
-  * 5:30 pm - Rails OKC Workshop
-    * at [Project 3810](https://project3810.com)
-    * [Sign up](https://rails-okc.herokuapp.com/sign-up)
-    * Slack: [#rails-okc-workshop](https://techlahoma.slack.com/messages/rails-okc-workshop/)
-    * Beginner friendly
-* 2019-03-30 Saturday
-  * 9:30 am - Rails OKC Workshop
-    * at [Project 3810](https://project3810.com)
-    * [Sign up](https://rails-okc.herokuapp.com/sign-up)
-    * Slack: [#rails-okc-workshop](https://techlahoma.slack.com/messages/rails-okc-workshop/)
-    * Beginner friendly
 * 2019-04-01 Monday
   * 11:30 am - OKC#
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
@@ -34,6 +17,7 @@
     * at the [iHub](http://www.ou.edu/innovationhub)
     * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzgbdb/)
     * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
+    * Beginner friendly
 * 2019-04-04 Thursday
   * 11:30 am - Big Data and Data Science OKC
     * at StarSpace46
@@ -42,8 +26,14 @@
     * at the [iHub](http://www.ou.edu/innovationhub)
     * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzgbgb/)
     * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
+    * Beginner friendly
 * 2019-04-10	Wednesday
   * 11:30 am OKC Python
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Flask Blueprints with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
     * Slack: [#pythonista](https://techlahoma.slack.com/messages/pythonista/)
+* 2019-04-15 Monday
+  * 11:30 OKC Analytics
+    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * RSVP: [Data Cleaning and Standardization with Jess Hale](https://www.meetup.com/OKC-Analytics/events/259068020/)
+    * Slack: [#okc-analytics](https://techlahoma.slack.com/messages/okc-analytics/)
