@@ -1,37 +1,23 @@
-* 2019-03-28 Thursday
-  * Data + Creativity OKC at 6:00 pm
-    * at Exaptive
-    * RSVP: [An Algorithm to Improve Outcomes for Students and Universities](https://www.meetup.com/Data-Creativity-OKC/events/259146806/)
-* 2019-04-01 Monday
-  * 11:30 am - OKC#
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [April Fool's Lightning Talks](https://www.meetup.com/OKC-Sharp/events/257991505/)
-    * Slack: [#okc-sharp](https://techlahoma.slack.com/messages/rails-okc-workshop/)
-    * Beginner friendly
-* 2019-04-02 Tuesday
-  * 11:30 am - ProductTank OKC
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [Insights & Frameworks for Business Growth with Sachin Rajpal](https://www.meetup.com/ProductTank-OKC/events/259959423/)
-    * Slack: [#product_people](https://techlahoma.slack.com/messages/product_people/)
-  * 11:30 am - Free Code Camp Norman
-    * at the [iHub](http://www.ou.edu/innovationhub)
-    * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzgbdb/)
-    * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
-    * Beginner friendly
-* 2019-04-04 Thursday
-  * 11:30 am - Big Data and Data Science OKC
-    * at StarSpace46
-    * RSVP: [Big Data Tools: DataBricks](https://www.meetup.com/Big-Data-in-Oklahoma-City/events/258171327/)
-  * 11:30 am
-    * at the [iHub](http://www.ou.edu/innovationhub)
-    * RSVP: [Brown Bag Watch Party](https://www.meetup.com/FreeCodeCamp-Norman/events/rdhhsqyzgbgb/)
-    * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
-    * Beginner friendly
+* 2019-04-07 Sunday
+  * 2:00 pm Free Code Camp OKC
+    * on [Twitch](https://twitch.tv/techlahoma) only!
+    * RSVP: [Intro to JavaScript with Carmen Bourlon](https://www.meetup.com/FreeCodeCampOKC/events/260351265/)
+    * Slack: [#freecodecampokc](https://techlahoma.slack.com/messages/freecodecampokc/)
+* 2019-04-08 Monday
+  * 5:00 pm OKC Coffee and Code (come and go)
+    * Location TBD but probably Kamp's on 10th
+    * RSVP: [Coding Projects and Tutorials](https://www.meetup.com/okccoffeeandcode/events/260347917/)
+    * Slack: [#okc-coffee-and-code](https://techlahoma.slack.com/messages/okc-coffee-and-code/)
 * 2019-04-10	Wednesday
   * 11:30 am OKC Python
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Flask Blueprints with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
     * Slack: [#pythonista](https://techlahoma.slack.com/messages/pythonista/)
+* 2019-04-11 Thursday
+  * 11:30 OKC Ruby
+    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * RSVP: [How Blocks Work in Ruby](https://www.meetup.com/OKC-Ruby/events/260320315/)
+    * Slack: [#okc-ruby](https://techlahoma.slack.com/messages/okc-ruby/)
 * 2019-04-15 Monday
   * 11:30 OKC Analytics
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
