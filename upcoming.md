@@ -1,3 +1,11 @@
+* Free Code Camp Norman
+  * Tuesdays and Thursdays
+    * 11:30 am at Tom Love Innovation Hub
+    * RSVP: [Meetup Watch Party](https://www.meetup.com/FreeCodeCamp-Norman)
+  * Tuesdays
+    * 6:30 pm at Tom Love Innovation Hub
+    * RSVP: [Weekly Hack and Learn](https://www.meetup.com/FreeCodeCamp-Norman)
+  * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
 * 2019-04-07 Sunday
   * 2:00 pm Free Code Camp OKC
     * on [Twitch](https://twitch.tv/techlahoma) only!
