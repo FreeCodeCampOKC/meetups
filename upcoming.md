@@ -11,6 +11,10 @@
     * on [Twitch](https://twitch.tv/techlahoma) only!
     * RSVP: [Intro to JavaScript with Carmen Bourlon](https://www.meetup.com/FreeCodeCampOKC/events/260351265/)
     * Slack: [#freecodecampokc](https://techlahoma.slack.com/messages/freecodecampokc/)
+  * 6:00 pm OKC Coffee and Code (come and go)
+    * at Starbucks across from Integris
+    * RSVP: [Starbucks Coffee and Code](https://www.meetup.com/okccoffeeandcode/events/260400966/)
+    * Slack: [#okc-coffee-and-code](https://techlahoma.slack.com/messages/okc-coffee-and-code/)
 * 2019-04-08 Monday
   * 5:00 pm OKC Coffee and Code (come and go)
     * at Kamp's on 10th
