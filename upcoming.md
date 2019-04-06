@@ -21,7 +21,7 @@
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Reactive Programming Applying Duality: The Lost Art of Denotational Semantics](https://www.meetup.com/okcjug/events/260243783/)
     * Slack: [#okcjug](https://techlahoma.slack.com/messages/okcjug/)
-* 2019-04-10	Wednesday
+* 2019-04-10 Wednesday
   * 11:30 am OKC Python
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Flask Blueprints with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
@@ -46,10 +46,15 @@
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Data Cleaning and Standardization with Jess Hale](https://www.meetup.com/OKC-Analytics/events/259068020/)
     * Slack: [#okc-analytics](https://techlahoma.slack.com/messages/okc-analytics/)
-  * 6:00 pm
+  * 6:00 pm OKC SQL
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [SQL Server Workshop](https://www.meetup.com/OKCSQL/events/260320411/)
     * Slack: [#okcsql](https://techlahoma.slack.com/messages/okcsql/)
+* 2019-04-20 Saturday
+  * 2:00 pm Code Norman
+    * at Norman Public Library East
+    * RSVP: [April Meetup: Open Source](https://www.meetup.com/CODE-Norman/events/260026240/)
+    * Slack: [#code-norman](https://techlahoma.slack.com/messages/code-norman/)
 * 2019-04-22 Monday
   * 5:30 pm Techlahoma Foundation
     * at Project 3810 
