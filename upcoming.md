@@ -24,10 +24,10 @@
 * 2019-04-10 Wednesday
   * 11:30 am OKC Python
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [Flask Blueprints with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
+    * RSVP: [Flask: Introduction & Project Structure with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
     * Slack: [#pythonista](https://techlahoma.slack.com/messages/pythonista/)
 * 2019-04-11 Thursday
-  * 11:30 OKC Ruby
+  * 11:30 am OKC Ruby
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [How Blocks Work in Ruby with Aaron Krauss](https://www.meetup.com/OKC-Ruby/events/260320315/)
     * Slack: [#okc-ruby](https://techlahoma.slack.com/messages/okc-ruby/)
