@@ -6,11 +6,6 @@
     * 6:30 pm at Tom Love Innovation Hub
     * RSVP: [Weekly Hack and Learn](https://www.meetup.com/FreeCodeCamp-Norman)
   * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
-* 2019-04-07 Sunday
-  * 6:00 pm OKC Coffee and Code (come and go)
-    * at Starbucks across from Integris
-    * RSVP: [Starbucks Coffee and Code](https://www.meetup.com/okccoffeeandcode/events/260400966/)
-    * Slack: [#okc-coffee-and-code](https://techlahoma.slack.com/messages/okc-coffee-and-code/)
 * 2019-04-08 Monday
   * 5:00 pm OKC Coffee and Code (come and go)
     * at Kamp's on 10th
@@ -64,3 +59,8 @@
   * 5:30 pm Techlahoma Foundation
     * at Project 3810 
     * RSVP: [OKC Networking Fair](https://www.meetup.com/Techlahoma-Foundation/events/260083389/)
+* 2019-04-24 Wednesday
+  * 11:30 am OKC Design Tech
+    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * RSVP: [Content Isn't Something You Read: It's Something You Do](https://www.meetup.com/OKC-Design-Tech/events/260122459/)
+    * Slack: [#okc-design-tech](https://techlahoma.slack.com/messages/okc-design-tech/)
