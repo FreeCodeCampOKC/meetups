@@ -7,10 +7,6 @@
     * RSVP: [Weekly Hack and Learn](https://www.meetup.com/FreeCodeCamp-Norman)
   * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
 * 2019-04-07 Sunday
-  * 2:00 pm Free Code Camp OKC
-    * on [Twitch](https://twitch.tv/techlahoma) only!
-    * RSVP: [Intro to JavaScript with Carmen Bourlon](https://www.meetup.com/FreeCodeCampOKC/events/260351265/)
-    * Slack: [#freecodecampokc](https://techlahoma.slack.com/messages/freecodecampokc/)
   * 6:00 pm OKC Coffee and Code (come and go)
     * at Starbucks across from Integris
     * RSVP: [Starbucks Coffee and Code](https://www.meetup.com/okccoffeeandcode/events/260400966/)
@@ -59,6 +55,11 @@
     * at Norman Public Library East
     * RSVP: [April Meetup: Open Source](https://www.meetup.com/CODE-Norman/events/260026240/)
     * Slack: [#code-norman](https://techlahoma.slack.com/messages/code-norman/)
+* 2019-04-21 Sunday
+  * 2:00 pm Free Code Camp OKC
+    * on [Twitch](https://twitch.tv/techlahoma) only!
+    * [User Experience Design and Design Thinking: From 10,000 ft - Dodzidenu Dzakuma](https://www.twitch.tv/events/_Z7WLajwTPG1CI6uswDNfw)
+    * Slack: [#freecodecampokc](https://techlahoma.slack.com/messages/freecodecampokc/)
 * 2019-04-22 Monday
   * 5:30 pm Techlahoma Foundation
     * at Project 3810 
