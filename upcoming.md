@@ -1,31 +1,8 @@
 * Free Code Camp Norman
-  * Tuesdays and Thursdays
-    * 11:30 am at Tom Love Innovation Hub
-    * RSVP: [Meetup Watch Party](https://www.meetup.com/FreeCodeCamp-Norman)
   * Tuesdays
     * 6:30 pm at Tom Love Innovation Hub
     * RSVP: [Weekly Hack and Learn](https://www.meetup.com/FreeCodeCamp-Norman)
   * Slack: [#fcc-norman](https://techlahoma.slack.com/messages/fcc-norman/)
-* 2019-04-08 Monday
-  * 5:00 pm OKC Coffee and Code (come and go)
-    * at Kamp's on 10th
-    * RSVP: [Kamp's Coffee and Code](https://www.meetup.com/okccoffeeandcode/events/260347917/)
-    * Slack: [#okc-coffee-and-code](https://techlahoma.slack.com/messages/okc-coffee-and-code/)
-* 2019-04-09 Tuesday
-  * 11:30 am OKC JUG
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [Reactive Programming Applying Duality: The Lost Art of Denotational Semantics](https://www.meetup.com/okcjug/events/260243783/)
-    * Slack: [#okcjug](https://techlahoma.slack.com/messages/okcjug/)
-* 2019-04-10 Wednesday
-  * 11:30 am OKC Python
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [Flask: Introduction & Project Structure with Brandon Smith](https://www.meetup.com/okcpython/events/vtdhfpyzgbnb/)
-    * Slack: [#pythonista](https://techlahoma.slack.com/messages/pythonista/)
-* 2019-04-11 Thursday
-  * 11:30 am OKC Ruby
-    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
-    * RSVP: [How Blocks Work in Ruby with Aaron Krauss](https://www.meetup.com/OKC-Ruby/events/260320315/)
-    * Slack: [#okc-ruby](https://techlahoma.slack.com/messages/okc-ruby/)
 * 2019-04-13 Saturday
   * 2:00 pm OKC Open Source Hardware
     * at StarSpace46
