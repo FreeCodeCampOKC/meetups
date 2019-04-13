@@ -22,6 +22,16 @@
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [SQL Server Workshop](https://www.meetup.com/OKCSQL/events/260320411/)
     * Slack: [#okcsql](https://techlahoma.slack.com/messages/okcsql/)
+* 2019-04-16 Tuesday
+  * 11:30 am OKC.js
+    * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
+    * RSVP: [James Simpson: Howler.js 2.0 and Beyond](https://www.meetup.com/OKC-js/events/260497246/)
+    * Slack: [#javascript](https://techlahoma.slack.com/messages/javascript/)
+* 2019-04-18 Thursday
+  * 11:30 am CocoaHeads OKC
+    * at StarSpace46
+    * RSVP: [Lightning Connector Talks](https://www.meetup.com/CocoaHeads-OKC/events/260547930/)
+    * Slack: [#cocoaheadsokc](https://techlahoma.slack.com/messages/cocoaheadsokc/)
 * 2019-04-20 Saturday
   * 2:00 pm Code Norman
     * at Norman Public Library East
@@ -41,3 +51,7 @@
     * at StarSpace46 and on [Twitch](https://twitch.tv/techlahoma)
     * RSVP: [Content Isn't Something You Read: It's Something You Do](https://www.meetup.com/OKC-Design-Tech/events/260122459/)
     * Slack: [#okc-design-tech](https://techlahoma.slack.com/messages/okc-design-tech/)
+* 2019-04-25 Thursday
+  * 6:00 pm Data + Creativity
+    * at Exaptive
+    * RSVP: [Nerdy Movie Night](https://www.meetup.com/Data-Creativity-OKC/events/260314116/)
