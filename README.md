@@ -1,8 +1,8 @@
-# Check out these meetups and videos!
+# Meetups
 
-Feel free to update these lists in a pull request.
+* Attend as many [upcoming](upcoming.md) meetups in person as you can, to learn new things and network with community members.
 
-## Meetups
+* Watch [videos](videos.md) of meetups you've missed, and follow up with the speakers!
 
 * 2018-10-31 [OKC Design Tech - UX vs UI](https://www.meetup.com/OKC-Design-Tech/events/255262130/)
 * 2018-11-04 [Getting Started with Blogging on Medium with Cassie Koelsch](https://www.meetup.com/FreeCodeCampOKC/events/255581026/)
@@ -30,8 +30,7 @@ Feel free to update these lists in a pull request.
 * [She Codes OKC: Cassie Koelsch - Learning Pull Requests in GitHub](https://www.youtube.com/watch?v=7kUe46mBD18)
 
 ### Introduction to Github Pages
-* [Intro to GitHub Pages - Chris Tse: Free Code Camp OKC
-](https://www.youtube.com/watch?v=LAbsB4lqh6c)
+* [Intro to GitHub Pages - Chris Tse: Free Code Camp OKC](https://www.youtube.com/watch?v=LAbsB4lqh6c)
 
 ### Becoming a Developer
 * [Free Code Camp OKC: John Mosesman - How to Become a Developer](https://www.youtube.com/watch?v=vYct8lrMkuM)
@@ -47,3 +46,5 @@ Feel free to update these lists in a pull request.
 * [Free Code Camp OKC: Kristin Ferrier - Building Relationships in the IT Community](https://www.youtube.com/watch?v=bLsKi5YySNY)
 * [200 OK: Clement Ho - Why Should you Contribute to Open Source?](https://www.youtube.com/watch?v=kvLBr9kgxoo)
 * [OKC Ruby: Joe Lee - The Odin Project: Advantages and Drawbacks of a Meta-Tutorial](https://www.youtube.com/watch?v=kEW9-acYxTo)
+
+Feel free to update these lists in a pull request!
