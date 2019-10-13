@@ -29,6 +29,10 @@ Feel free to update these lists in a pull request.
 * [Free Code Camp OKC: Jennifer Droke - Intro to Git and GitHub](https://www.twitch.tv/videos/316858556)
 * [She Codes OKC: Cassie Koelsch - Learning Pull Requests in GitHub](https://www.youtube.com/watch?v=7kUe46mBD18)
 
+### Introduction to Github Pages
+* [Intro to GitHub Pages - Chris Tse: Free Code Camp OKC
+](https://www.youtube.com/watch?v=LAbsB4lqh6c)
+
 ### Becoming a Developer
 * [Free Code Camp OKC: John Mosesman - How to Become a Developer](https://www.youtube.com/watch?v=vYct8lrMkuM)
 * [Techlahoma: Maegan's Journey](https://youtu.be/PZj53WT4wcg)
