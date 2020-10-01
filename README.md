@@ -47,4 +47,9 @@
 * [200 OK: Clement Ho - Why Should you Contribute to Open Source?](https://www.youtube.com/watch?v=kvLBr9kgxoo)
 * [OKC Ruby: Joe Lee - The Odin Project: Advantages and Drawbacks of a Meta-Tutorial](https://www.youtube.com/watch?v=kEW9-acYxTo)
 
+### Twitch clips and Links
+[![Techlahoma Twitch]({https://www.twitch.tv/techlahoma/clip/PlayfulColdbloodedShingleRalpherZ?filter=clips&range=30d&sort=time})]({https://www.twitch.tv/techlahoma/clip/PlayfulColdbloodedShingleRalpherZ?filter=clips&range=30d&sort=time} "Apache Kafka for Microservices")
+
+[![Techlahoma Twitch]({https://www.twitch.tv/techlahoma/clip/WealthyBoredWaspMcaT?filter=clips&range=30d&sort=time})]({https://www.twitch.tv/techlahoma/clip/WealthyBoredWaspMcaT?filter=clips&range=30d&sort=time} "Searching for a Tech Job - Ask a HR Professional")
+
 Feel free to update these lists in a pull request!
